@@ -11,3 +11,4 @@ git config user.username "<username>"
 
 8. commit those files using (git commit -m <message>)
 9. push those files to remote using (git push <remote-name> <branch-name>).
+10. enter username and password to login.
