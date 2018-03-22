@@ -1,0 +1,13 @@
+1. Install git in your machine
+2. use "git init" to initiate a new empty repository.
+3. create a new repository on github.com
+4. (git remote add <name> <url> ) to add new remote with the git url.
+5. create some sample files on that folder.
+6. check the current situation(status) on cmd using (git status).
+7. use (git add <filename>/.) to track the file.
+
+git config user.email "<email@email.com>"
+git config user.username "<username>"
+
+8. commit those files using (git commit -m <message>)
+9. push those files to remote using (git push <remote-name> <branch-name>).
